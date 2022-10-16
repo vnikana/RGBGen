@@ -1,13 +1,16 @@
 .color {
   width: 100%;
 }
+.color {
+  width: 100%;
+}
 .darktextboxes {
-  background-color:#EFBAFA;
-  border-color:#EA74FF;
+  background-color:#331f32;
+  border-color:#442c41;
   color:white;
 }
 .darkgray {
-  color:white;
+  color:darkgray;
 }
 .gray {
   color:gray;
@@ -25,12 +28,12 @@
   -ms-overflow-style: none; scrollbar-width: none;
 }
 body.dark {
-  background-color:#FFF8FF;
+  background-color:#4d334d;
   color:white;
 }
 select.dark {
-  background-color:#EFBAFA;
-  border-color:#EA74FF;
+  background-color:#321f33;
+  border-color:#442c42;
   color:white;
 }
 #colors {
