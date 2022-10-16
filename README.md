@@ -1,5 +1,4 @@
-# ThiccRGB
-Thicc SMP's RGB Gradient Generator
-Useful for setting MOTD, `/nick` and prefixes (ranks).
+# An RGB
+PillowBot's Personal RGB Generator.
 
-A fork of [**RGBirdFlop**](https://rgb.birdflop.com)
+A fork of [**ThiccRGB**](https://github.com/ThiccMC/ThiccRGB), which is a fork of [**RGBirdFlop**](https://rgb.birdflop.com).
