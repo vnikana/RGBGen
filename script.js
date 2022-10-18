@@ -5,6 +5,21 @@ const savedColors = ['E9AFFC', 'AFF2FC', getRandomHexColor(), getRandomHexColor(
 const presets = {
   1: {
     colors: ["FF0000", "FF7F00", "FFFF00", "00FF00", "0000FF", "4B0082", "9400D3"],
+  },
+  2: {
+    colors: ["FF8181", "FFB681", "FFF7A0", "B2FFA0", "A0FFF7", "A0A4FF", "ECA0FF"],
+  },
+  3: {
+    colors: ["447294", "8fbcdb", "f4d6bc"],
+  },
+  4: {
+    colors: ["447294", "8fbcdb", "c1dadf"],
+  },
+  5: {
+    colors: ["ED2121 ", "00719B"],
+  },
+    6: {
+    colors: ["FF7CC9", "FF3C8F"],
   }
 }
 const formats = {
